@@ -1,4 +1,6 @@
-# ML_Stuff
+# this has become a general purpose dump for random things I've fiddled with on and off - nothing even useful here
+
+## ML_Stuff
 ## General Machine Learning Stuff
 
 If this ever becomes useful I'll make a real readme. As it stands there is only two folders:
